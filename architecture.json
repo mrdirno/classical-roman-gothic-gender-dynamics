@@ -1,0 +1,160 @@
+{
+  "book_id": "classical_roman_gothic_gender_dynamics",
+  "title": "The Weeping Stone",
+  "tagline": "In the heart of Imperial Rome, a woman's duty is a cage, but her secret rebellion could shatter an empire.",
+  "target_words": 70000,
+  "actual_words": 74796,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Currency of the Female Body",
+    "Silent Rebellion in a Gilded Cage",
+    "Power Dynamics of Patronage and Clientage",
+    "Gothic Claustrophobia in a Classical World"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "A Currency of the State",
+      "words": 3117
+    },
+    {
+      "ch": 2,
+      "title": "The Shadow in the Garden",
+      "words": 3117
+    },
+    {
+      "ch": 3,
+      "title": "The Unseen Contract",
+      "words": 3117
+    },
+    {
+      "ch": 4,
+      "title": "Whispers in the Gynaeceum",
+      "words": 3117
+    },
+    {
+      "ch": 5,
+      "title": "The Games of Men",
+      "words": 3117
+    },
+    {
+      "ch": 6,
+      "title": "A Lesson in Finality",
+      "words": 3117
+    },
+    {
+      "ch": 7,
+      "title": "The Trousseau of Chains",
+      "words": 3117
+    },
+    {
+      "ch": 8,
+      "title": "Venus Verticordia",
+      "words": 3117
+    },
+    {
+      "ch": 9,
+      "title": "A Leak in the Hull",
+      "words": 3117
+    },
+    {
+      "ch": 10,
+      "title": "The Debt Collector",
+      "words": 3117
+    },
+    {
+      "ch": 11,
+      "title": "Blood and Ink",
+      "words": 3117
+    },
+    {
+      "ch": 12,
+      "title": "The Forum's Judgment",
+      "words": 3117
+    },
+    {
+      "ch": 13,
+      "title": "FINAL CHAPTER",
+      "words": 3117
+    },
+    {
+      "ch": 14,
+      "title": "The House of Aelius",
+      "words": 3117
+    },
+    {
+      "ch": 15,
+      "title": "Equine Philosophy",
+      "words": 3117
+    },
+    {
+      "ch": 16,
+      "title": "A Tool's Edge",
+      "words": 3117
+    },
+    {
+      "ch": 17,
+      "title": "The Midnight Ledger",
+      "words": 3117
+    },
+    {
+      "ch": 18,
+      "title": "A Spark in the Subura",
+      "words": 3117
+    },
+    {
+      "ch": 19,
+      "title": "The Senator's Shadow",
+      "words": 3117
+    },
+    {
+      "ch": 20,
+      "title": "The Turning Heart",
+      "words": 3117
+    },
+    {
+      "ch": 21,
+      "title": "Before the Lares",
+      "words": 3117
+    },
+    {
+      "ch": 22,
+      "title": "The Ship Sinks",
+      "words": 3117
+    },
+    {
+      "ch": 23,
+      "title": "Stone No Longer Weeps",
+      "words": 3117
+    },
+    {
+      "ch": 24,
+      "title": "What a Roman Woman Bears",
+      "words": 3117
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where Livia uses her knowledge of philosophy or poetry to subtly undermine her fiancé in public, a weapon he cannot perceive.",
+      "Draft a monologue from Cassius's perspective as he observes the household, detailing the 'tasks of discretion' he has performed for Drusus and his first impressions of Livia.",
+      "Create a clandestine meeting between Livia and a non-elite woman (a slave, a merchant's wife) that reveals a different axis of power and survival in Rome.",
+      "Write the betrothal ceremony scene, focusing on the sensory details—the smells, the oppressive weight of clothing, the empty rituals—that highlight Livia's internal gothic horror."
+    ],
+    "technical": [
+      "Build a 'Drip Calculator' web app that visualizes the persistent, maddening leak in the atrium as a metaphor for Livia's dwindling time and sanity, with each 'plink' generating a line of constrained poetry.",
+      "Create a network graph of the Roman patronage system ('clientela') as depicted in the novel, linking characters like Drusus, Cassius, the Aelii, and others, with edge weights representing debts, obligations, and hidden threats."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Mary Shelley",
+      "Tacitus",
+      "Charlotte Brontë",
+      "Federico Fellini"
+    ]
+  },
+  "cover_prompt": "A young Roman noblewoman in a stola of deep crimson and gold, her face a mask of serene composure while her hands, hidden in the folds of her gown, slowly crush a delicate wax tablet bearing a secret message, [Detailed Scene & Context: set within the opulent yet suffocating interior of a domus atrium at dusk, rain streaking the high clerestory windows, the shadows of the impluvium pool stretching like bars across the marble floor, a single, weeping stone grotesque fountain figure visible in the corner, its base stained with dark mineral tears], [Artistic Style & Medium: in the atmospheric style of John William Waterhouse meets Zdzisław Beksiński, blending classical figure painting with a haunting, architectural gothic sensibility, oil on canvas with textured impasto], [Composition & Camera: book cover framing, a centered, intimate portrait composition with a slightly low angle looking up at the subject, emphasizing her trapped dignity within the vast space, the crushed tablet and weeping stone subtly off-center to create tension], [Lighting & Color Palette: dramatic chiaroscuro lighting with a single light source from the window casting long, imprisoning shadows, a palette of imperial gold, blood crimson, bruised purple, and wet marble grey, punctuated by the sickly green patina of the bronze fountain], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
